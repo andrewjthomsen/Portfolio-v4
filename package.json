@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/andrewjthomsen/Portfolio-v4.git"
+  },
+  "author": "Andrew Thomsen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewjthomsen/Portfolio-v4/issues"
+  },
+  "homepage": "https://github.com/andrewjthomsen/Portfolio-v4#readme"
+}
